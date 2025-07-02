@@ -85,7 +85,17 @@ Bulk pricing strategies encourage large orders, increasing total sales while mai
 
  ![image](https://github.com/user-attachments/assets/6950aef3-e9ca-445f-baad-c567adb24f9d)
 
-## 4.	Profit Margin Comparison: High vs. Low-Performing Vendors
+## 4.	Identifying Vendors with Low Inventory Turnover
+
+Total Unsold Inventory Capital: $1.03M
+
+Slow-moving inventory increases storage costs, reduces cash flow efficiency, and affects overall profitability.
+
+Identifying vendors with low inventory turnover enables better stock management, minimizing financial strain.
+
+![image](https://github.com/user-attachments/assets/c58faf96-1bb5-4b80-a1db-a98d67d85784)
+
+## 5.	Profit Margin Comparison: High vs. Low-Performing Vendors
 
  ![image](https://github.com/user-attachments/assets/1d70fb64-89a2-45ae-a253-1dbae4d49825)
 
