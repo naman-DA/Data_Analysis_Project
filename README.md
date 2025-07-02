@@ -68,7 +68,7 @@ Stock Turnover vs. Gross Profit & Profit Margin: Weak negative correlation (-0.0
 
  ![image](https://github.com/user-attachments/assets/fe9f81ad-1b57-4779-a1ad-7c60e801a9ca)
 
-198 brands exhibit lower sales but higher profit margins, which could benefit from targeted marketing, promotions, or price optimizations to increase volume without compromising profitability.
+13 brands exhibit lower sales but higher profit margins, which could benefit from targeted marketing, promotions, or price optimizations to increase volume without compromising profitability.
 
  ![image](https://github.com/user-attachments/assets/aec492ca-ccbb-4e4b-9b74-2209a38478c1)
 
