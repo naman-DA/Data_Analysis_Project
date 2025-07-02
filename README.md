@@ -1,5 +1,5 @@
 # Vendor_Performance_Analysis_Project
-BUSINESS PROBLEM
+## BUSINESS PROBLEM
 Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. Companies need to ensure that they are not incurring losses due to inefficient pricing, poor inventory turnover, or vendor dependency. 
 The goal of this analysis is to:
 •	Identify underperforming brands that require promotional or pricing adjustments.
@@ -7,8 +7,8 @@ The goal of this analysis is to:
 •	Analyze the impact of bulk purchasing on unit costs.
 •	Assess inventory turnover to reduce holding costs and improve efficiency.
 •	Investigate the profitability variance between high-performing and low-performing vendors.
-Exploratory Data Analysis Insights
-Summary Statistics
+## Exploratory Data Analysis Insights
+## Summary Statistics
 
  
 
@@ -23,19 +23,19 @@ Purchase & Actual Prices: The maximum values (5,681.81 & 7,499.99) are significa
 Freight Cost: Extreme variation from to suggests logistics inefficiencies, bulk shipments, or erratic shipping costs across different products.
 Stock Turnover:  Ranges from to suggesting some products sell rapidly while others remain unsold for long periods. A value greater than 1 indicates that sales for a product exceed the purchased quantity due to older stock fulfilling orders.
  
- Data Filtering:
+ ## Data Filtering:
  To enhance the reliability of the insights, we removed inconsistent data points where:
 •	Gross Profit <= 0 (to exclude transactions leading to losses).
 •	Profit Margin <= 0 (to ensure analysis focuses on profitable transactions).
 •	Total Sales Quantity = 0 (to eliminate inventory that was not never sold). 
- Correlation Insights
+ ## Correlation Insights
  
 Purchase Price vs. Total Sales Dollars & Gross Profit: Weak correlation (-0.012 & -0.016), indicating that price variations do not significantly impact sales revenue or profit.
 Total Purchase Quantity vs. Total Sales Quantity: Strong correlation (0.999), confirming efficient inventory turnover.
 Profit Margin vs. Total Sales Price: Negative correlation (-0.179), suggesting increasing sales prices may lead to reduced margins, possibly due to competitive pricing pressures.
 Stock Turnover vs. Gross Profit & Profit Margin: Weak negative correlation (-0.038 & -0.055), indicating that faster stock turnover does not necessarily equate to higher profitability.
 
-Research Questions & Key Findings
+## Research Questions & Key Findings
 1.	Brands for Promotional or Pricing Adjustments
  
 198 brands exhibit lower sales but higher profit margins, which could benefit from targeted marketing, promotions, or price optimizations to increase volume without compromising profitability.
