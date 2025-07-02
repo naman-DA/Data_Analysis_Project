@@ -16,7 +16,10 @@ The goal of this analysis is to:
 ## Exploratory Data Analysis Insights
 ## Summary Statistics
 
- 
+ ![image](https://github.com/user-attachments/assets/cf36e392-fb90-4ed4-975e-17d9bfc593ae)
+
+![image](https://github.com/user-attachments/assets/c4f443a2-b0fa-49bf-9e1f-ec5a7af853b8)
+![image](https://github.com/user-attachments/assets/cf551601-c9ae-46b5-9110-e48e1603b66c)
 
        
  
@@ -47,6 +50,8 @@ Stock Turnover:  Ranges from to suggesting some products sell rapidly while othe
 •	Total Sales Quantity = 0 (to eliminate inventory that was not never sold). 
 
  ## Correlation Insights
+ ![image](https://github.com/user-attachments/assets/bc30d497-67de-444e-a178-4497c818437b)
+
  
 Purchase Price vs. Total Sales Dollars & Gross Profit: Weak correlation (-0.012 & -0.016), indicating that price variations do not significantly impact sales revenue or profit.
 
@@ -59,20 +64,25 @@ Stock Turnover vs. Gross Profit & Profit Margin: Weak negative correlation (-0.0
 ## Research Questions & Key Findings
 
 1.	Brands for Promotional or Pricing Adjustments:
- 
+ ![image](https://github.com/user-attachments/assets/fe9f81ad-1b57-4779-a1ad-7c60e801a9ca)
+
 198 brands exhibit lower sales but higher profit margins, which could benefit from targeted marketing, promotions, or price optimizations to increase volume without compromising profitability.
- 
+ ![image](https://github.com/user-attachments/assets/aec492ca-ccbb-4e4b-9b74-2209a38478c1)
+
 2.	Top Vendors by Sales & Purchase Contribution:
    
 The top 10 vendors contribute 75.14% of total purchases, while the remaining vendors contribute only 24.86%. This over-reliance on a few vendors may introduce risks such as supply chain disruptions, indicating a need for diversification.
- 
+ ![image](https://github.com/user-attachments/assets/a5d0866f-562a-4764-ad3d-f8503f179c8c)
+
 3.	Impact of Bulk Purchasing on Cost Savings:
    
 Vendors buying in large quantities receive a 72% lower unit cost ($11.25 per unit vs. higher unit costs in smaller orders).
 Bulk pricing strategies encourage large orders, increasing total sales while maintaining profitability. 
- 
+ ![image](https://github.com/user-attachments/assets/6950aef3-e9ca-445f-baad-c567adb24f9d)
+
 4.	Profit Margin Comparison: High vs. Low-Performing Vendors
- 
+ ![image](https://github.com/user-attachments/assets/1d70fb64-89a2-45ae-a253-1dbae4d49825)
+
    Low-performing vendors maintains higher margins but struggle with sales volumes, indicating potential pricing inefficiencies or market reach issues.
 Actionable Insights:
 
